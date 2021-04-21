@@ -1,0 +1,28 @@
+{
+  "name": "puff_puff_cig",
+  "version": "1.0.0",
+  "description": "Calculation tool of cost of cigarettes",
+  "main": "main.js",
+  "bin": {
+    "puff_puff_cig": "main.js"
+  },
+  "scripts": {
+    "test": "puff_puff_sig"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obregonia1/puff_puff_cig.git"
+  },
+  "keywords": [
+    "cigarette"
+  ],
+  "author": "obregonia1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obregonia1/puff_puff_cig/issues"
+  },
+  "homepage": "https://github.com/obregonia1/puff_puff_cig#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
